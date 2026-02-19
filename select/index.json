@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "理想的ガール",
+  "base_artist": "かわにしなつき",
+  "createdAt": "2026-02-19T13:27:12.720392Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "理想的ガール",
+      "artist": "かわにしなつき",
+      "has_synced": false,
+      "path": "select/pl_01_理想的ガール_かわにしなつき.txt"
+    }
+  ]
+}
